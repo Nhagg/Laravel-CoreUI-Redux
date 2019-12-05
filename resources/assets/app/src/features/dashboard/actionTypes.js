@@ -1,0 +1,7 @@
+
+
+
+export const GET_STATISTICS_DATALAKE = Symbol('GET_STATISTICS_DATALAKE');
+
+
+export const UPDATE_ALL_TAGS = Symbol("UPDATE_ALL_TAGS");
